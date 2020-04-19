@@ -110,7 +110,7 @@ class Sarki_Kutuphanesi():
                 toplam_sure += suresi
                 i += 1
                 dakika = toplam_sure/60
-            print("Şarkı veritabanında {} adet şarkı bulunmaktadır ve toplam süresi {} dakika {} saniyedir.".format(i,math.floor(dakika),toplam_sure - math.floor(dakika)*60))
+            print("Şarkı veritabanında toplam {} adet şarkı bulunmaktadır ve toplam süresi {} dakika {} saniyedir.".format(i,math.floor(dakika),toplam_sure - math.floor(dakika)*60))
 
 
 
