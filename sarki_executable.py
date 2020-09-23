@@ -10,7 +10,7 @@ bilgi_mesaji = """***********************************
 
 2. Şarkı Sorgula
 
-3. Şarkı ANAN
+3. Şarkı Ekleme
 
 4. Şarkı Silme
 
