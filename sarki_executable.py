@@ -8,7 +8,7 @@ bilgi_mesaji = """***********************************
 
 1. Şarkıları Göster
 
-2. Şarkı Sorgulama
+2. Şarkı Sorgula
 
 3. Şarkı Ekle
 
