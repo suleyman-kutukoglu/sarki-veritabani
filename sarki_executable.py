@@ -12,7 +12,7 @@ bilgi_mesaji = """***********************************
 
 3. Şarkı Ekleme
 
-4. Şarkı Silme
+4. Şarkı Silme!
 
 5. Toplam Şarkı Süresini Göster
 
