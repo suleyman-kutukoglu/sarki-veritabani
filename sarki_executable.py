@@ -24,7 +24,7 @@ print (bilgi_mesaji)
 sarki_kutuphanesi = Sarki_Kutuphanesi()
 
 while True:
-    işlem = input("Yapacağınız İşlem: ")
+    işlem = input("Yapacağınız İşlemi Girin: ")
 
     if (işlem == "q"):
         print(bilgi_mesaji)
